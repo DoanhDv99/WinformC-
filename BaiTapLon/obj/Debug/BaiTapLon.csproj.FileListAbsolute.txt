@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\obj\Debug\BaiTapLon.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\obj\Debug\BaiTapLon.frmLogin.resources
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\ADMIN\Desktop\BaiTapLon\WinForm\BaiTapLon\obj\Debug\BaiTapLon.pdb
